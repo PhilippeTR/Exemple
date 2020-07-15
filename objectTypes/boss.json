@@ -510,6 +510,48 @@
 				"repeatCount": 1,
 				"repeatTo": 0,
 				"speed": 10
+			},
+			{
+				"frames": [
+					{
+						"width": 40,
+						"height": 29,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6141950,
+						"collisionPoly": {
+							"points": [
+								0.13339552238805907,
+								0.22087628079443775,
+								0.7208333333333333,
+								0.2877394577552532,
+								0.7277777777777777,
+								0.8586206838088931,
+								0.12593283582089487,
+								0.8626288581140253
+							]
+						},
+						"useCollisionPoly": true,
+						"imagePoints": [
+							{
+								"name": "Image Point 1",
+								"x": 0.65,
+								"y": 0.7586206896551724
+							}
+						],
+						"duration": 1
+					}
+				],
+				"sid": 826449875329468,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
 			}
 		],
 		"subfolders": []
